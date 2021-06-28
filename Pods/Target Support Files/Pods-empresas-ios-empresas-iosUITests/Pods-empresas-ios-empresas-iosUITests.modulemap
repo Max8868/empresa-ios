@@ -1,0 +1,6 @@
+framework module Pods_empresas_ios_empresas_iosUITests {
+  umbrella header "Pods-empresas-ios-empresas-iosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
